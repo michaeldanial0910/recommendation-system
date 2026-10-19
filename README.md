@@ -1,7 +1,7 @@
 # Movie Recommender with Cold-Start Handling
 
 > UneeQ Interns · Machine Learning Track · October 2026
-> **Demo video:** [YouTube/LinkedIn link](#) · **Author:** Michael Danial
+> **Demo video:** [`demo/recommender_demo.mp4`](demo/recommender_demo.mp4) (30 s, the Streamlit app) · **Author:** Michael Danial
 
 A content platform wants to put ten movies in front of each user that they will actually enjoy. This project builds
 that list for MovieLens 1M: a **popularity baseline**, **collaborative filtering** (item-kNN and ALS matrix
