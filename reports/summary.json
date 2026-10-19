@@ -1,0 +1,34 @@
+{
+  "item_cold_start": {
+    "new_movies_in_catalog_with_test_ratings": 44,
+    "users_who_liked_a_new_movie": 37,
+    "content_auc": 0.47676225674458106,
+    "auc_lo": 0.4221486831399005,
+    "auc_hi": 0.5388301892201582,
+    "random_auc": 0.5,
+    "collaborative_models": "cannot score them (no ratings yet)"
+  },
+  "explanations": {
+    "recommendations_checked": 3000,
+    "share_citing_a_liked_movie": 1.0,
+    "mean_knn_score_share_of_top3_citations": 0.18610828207427305,
+    "share_dropping_out_when_citations_removed": 0.225
+  },
+  "users": {
+    "warm": 1122,
+    "new_cold": 640,
+    "new_onboard": 640
+  },
+  "params": {
+    "knn_k": 400,
+    "knn_shrink": 100.0,
+    "als_factors": 16,
+    "als_alpha": 1.0,
+    "als_reg": 10.0,
+    "als_iters": 8,
+    "w_knn": 1.0,
+    "w_als": 0.25,
+    "w_pop": 0.5,
+    "w_content": 0.1
+  }
+}
