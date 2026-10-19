@@ -1,0 +1,70 @@
+[
+ {
+  "name": "ready",
+  "t": 9.91
+ },
+ {
+  "name": "foryou_start",
+  "t": 9.91
+ },
+ {
+  "name": "foryou_comedy",
+  "t": 13.48
+ },
+ {
+  "name": "foryou_hindsight",
+  "t": 16.09
+ },
+ {
+  "name": "foryou_end",
+  "t": 18.85
+ },
+ {
+  "name": "new_start",
+  "t": 20.64
+ },
+ {
+  "name": "new_demo",
+  "t": 25.15
+ },
+ {
+  "name": "new_hybrid",
+  "t": 37.08
+ },
+ {
+  "name": "new_end",
+  "t": 38.81
+ },
+ {
+  "name": "results_start",
+  "t": 42.98
+ },
+ {
+  "name": "results_onboard",
+  "t": 47.61
+ },
+ {
+  "name": "results_end",
+  "t": 50.87
+ },
+ {
+  "name": "why_start",
+  "t": 53.23
+ },
+ {
+  "name": "why_deleted",
+  "t": 57.57
+ },
+ {
+  "name": "why_end",
+  "t": 60.63
+ },
+ {
+  "name": "data_start",
+  "t": 63.34
+ },
+ {
+  "name": "data_end",
+  "t": 66.51
+ }
+]
