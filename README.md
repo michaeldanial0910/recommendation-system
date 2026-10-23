@@ -3,6 +3,11 @@
 > UneeQ Interns · Machine Learning Track · October 2026
 > **Demo video:** [`demo/recommender_demo.mp4`](demo/recommender_demo.mp4) (30 s, the Streamlit app) · **Author:** Michael Danial
 
+<p align="center">
+  <img src="docs/screenshots/app_for_you.png" alt="For you page: hybrid top 10 next to the popularity baseline, with hindsight" width="49%">
+  <img src="docs/screenshots/app_cold_start.png" alt="New user page: cold-start routing changes live as the user gives more information" width="49%">
+</p>
+
 A content platform wants to put ten movies in front of each user that they will actually enjoy. This project builds
 that list for MovieLens 1M: a **popularity baseline**, **collaborative filtering** (item-kNN and ALS matrix
 factorisation), a **content-based** model (genres and decade), and a **hybrid** that combines them. It handles
