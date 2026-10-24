@@ -1,7 +1,7 @@
 # Movie Recommender with Cold-Start Handling
 
 > UneeQ Interns · Machine Learning Track · October 2026
-> **Demo video:** [`demo/recommender_demo.mp4`](demo/recommender_demo.mp4) (30 s, the Streamlit app) · **Author:** Michael Danial
+> **Demo video:** [watch on YouTube](https://youtu.be/UjC7dGSYAHI) · file: [`demo/recommender_demo.mp4`](demo/recommender_demo.mp4) (30 s, the Streamlit app) · **Author:** Michael Danial
 
 <p align="center">
   <img src="docs/screenshots/app_for_you.png" alt="For you page: hybrid top 10 next to the popularity baseline, with hindsight" width="49%">
